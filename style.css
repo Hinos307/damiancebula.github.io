@@ -45,3 +45,12 @@ footer {
   background: #222;
   color: white;
 }
+.lang-switch {
+  font-size: 1.4rem;
+  margin-left: 20px;
+  transition: transform 0.2s;
+}
+
+.lang-switch:hover {
+  transform: scale(1.2);
+}
